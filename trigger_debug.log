@@ -1,0 +1,4 @@
+[2025-11-28T06:26:23.360Z] Condition: "data.status === "confirmed"" | Result: true | DataStatus: confirmed
+[2025-11-28T06:26:43.452Z] Condition: "data.status === "confirmed"" | Result: false | DataStatus: pending
+[2025-11-28T06:29:26.939Z] Condition: "data.status === "confirmed"" | Result: true | DataStatus: confirmed
+[2025-11-28T06:35:49.747Z] Condition: "data.status === "confirmed"" | Result: true | DataStatus: confirmed
